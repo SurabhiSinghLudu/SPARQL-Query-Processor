@@ -1,0 +1,49 @@
+<rdf:RDF
+xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+xmlns:vcard='http://www.w3.org/2001/vcard-rdf/3.0#'>
+
+
+
+<rdf:Description rdf:about='http://JS'>
+<vcard:FN>Abhishek Singh</vcard:FN>
+<vcard:N rdf:nodeID="A0"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A0">
+<vcard:Given>Abhishek</vcard:Given>
+<vcard:Family>Singh</vcard:Family>
+</rdf:Description>
+
+
+<rdf:Description rdf:about='http://AS'>
+<vcard:FN>Surabhi Singh</vcard:FN>
+
+<vcard:N rdf:nodeID="A1"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A1">
+<vcard:Given>Surahi</vcard:Given>
+<vcard:Family>Singh</vcard:Family>
+<vcard:Family>dey</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://RS'>
+<vcard:FN>Ayushi Sharma</vcard:FN>
+
+<vcard:N rdf:nodeID="A2"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A2">
+<vcard:Given>Ayushi</vcard:Given>
+<vcard:Family>Sharma</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://DJ'>
+<vcard:FN>Damini Singh Jadaun</vcard:FN>
+
+<vcard:N rdf:nodeID="A3"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A3">
+<vcard:Given>DAmini</vcard:Given>
+<vcard:Family>Singh</vcard:Family>
+</rdf:Description>
+
+
+</rdf:RDF>

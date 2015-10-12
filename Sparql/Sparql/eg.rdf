@@ -1,0 +1,68 @@
+<rdf:RDF
+xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+xmlns:vcard='http://www.w3.org/2001/vcard-rdf/3.0#'>
+
+
+
+<rdf:Description rdf:about='http://JS'>
+<vcard:FN>John Smith</vcard:FN>
+<vcard:N rdf:nodeID="A0"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A0">
+<vcard:Given>JOhn</vcard:Given>
+<vcard:Family>Smith</vcard:Family>
+</rdf:Description>
+
+
+<rdf:Description rdf:about='http://AS'>
+<vcard:FN>Ashish Singh</vcard:FN>
+
+<vcard:N rdf:nodeID="A1"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A1">
+<vcard:Given>Ashish</vcard:Given>
+<vcard:Family>Singh</vcard:Family>
+<vcard:Family>dey</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://RS'>
+<vcard:FN>Abhishek Singh</vcard:FN>
+
+<vcard:N rdf:nodeID="A2"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A2">
+<vcard:Given>Abhishek</vcard:Given>
+<vcard:Family>Singh</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://DJ'>
+<vcard:FN>Ayushi Sharma</vcard:FN>
+
+<vcard:N rdf:nodeID="A3"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A3">
+<vcard:Given>Ayushi</vcard:Given>
+<vcard:Family>Sharma</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://PS'>
+<vcard:FN>Pratik Shah</vcard:FN>
+
+<vcard:N rdf:nodeID="A4"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A4">
+<vcard:Given>Pratik</vcard:Given>
+<vcard:Family>Shah</vcard:Family>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://SS'>
+<vcard:FN>Shrey Shah</vcard:FN>
+
+<vcard:N rdf:nodeID="A5"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="A5">
+<vcard:Given>Shrey</vcard:Given>
+<vcard:Family>Shah</vcard:Family>
+</rdf:Description>
+
+</rdf:RDF>

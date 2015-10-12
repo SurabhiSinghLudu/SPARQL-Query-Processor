@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:v="http://www.w3.org/2006/vcard/ns#">
+           
+  <v:VCard rdf:about = "http://example.com/" >
+    <v:fn>Example.Com LLC</v:fn>
+
+    <v:org>
+      <rdf:Description>  
+        <v:organisation-name>Example.Com LLC</v:organisation-name>
+        <v:organisation-unit>Corporate Division</v:organisation-unit>
+      </rdf:Description>  
+    </v:org>
+
+    <v:adr>
+      <rdf:Description>  
+        <v:street-address>33 Enterprise Drive</v:street-address>
+        <v:locality>WonderCity</v:locality>
+        <v:postal-code>5555</v:postal-code>
+        <v:country-name>Australia</v:country-name>
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+      </rdf:Description>  
+    </v:adr>
+
+    <v:geo>
+      <rdf:Description>  
+        <v:latitude>43.33</v:latitude>
+        <v:longitude>55.45</v:longitude>
+      </rdf:Description>  
+    </v:geo>     
+    <v:tel>
+      <rdf:Description>  
+        <rdf:value>+61 7 5555 0000</rdf:value>
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Work"/>
+      </rdf:Description>  
+    </v:tel>
+    <v:email rdf:resource="mailto:info@example.com"/>
+    <v:logo rdf:resource="http://example.com/logo.png"/>   
+  </v:VCard>
+</rdf:RDF>

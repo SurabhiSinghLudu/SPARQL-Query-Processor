@@ -1,0 +1,43 @@
+
+<rdf:RDF xmlns:foaf='http://www.w3.org/2001/vcard-rdf/3.0#'>
+
+<foaf:Document rdf:about="">
+<dc:title>Wish List for Morten Frederiksen</dc:title>
+<foaf:topic rdf:nodeID="me"/>
+<foaf:maker rdf:nodeID="me"/>
+</foaf:Document>
+
+<foaf:Person rdf:nodeID="me">
+<foaf:name>Morten Frederiksen</foaf:name>
+<foaf:mbox_sha1sum>65b983bb397fb71849da910996741752ace8369b</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="http://purl.org/net/morten/foaf.rdf"/>
+
+<foaf:wishlist>
+
+<foaf:AmazonWishList>
+
+<rdf:li>
+
+<wn:Book-1>
+<foaf:page rdf:resource="http://www.amazon.com/exec/obidos/ASIN/1558605703/webservices-20?dev-t=D151B5UYK93CM2%26camp=2025%26link_code=xm2"/>
+
+<dc:title>
+Managing Gigabytes: Compressing and Indexing Documents and Images
+</dc:title>
+<dc:identifier>1558605703</dc:identifier>
+
+<foaf:depiction>
+
+<foaf:Image rdf:about="http://images.amazon.com/images/P/1558605703.01.LZZZZZZZ.jpg">
+<foaf:thumbnail rdf:resource="http://images.amazon.com/images/P/1558605703.01.THUMBZZZ.jpg"/>
+</foaf:Image>
+</foaf:depiction>
+
+<foaf:maker>
+
+<foaf:Person>
+<foaf:name>Timothy C. Bell</foaf:name>
+</foaf:Person>
+</foaf:maker>
+
+<dc:description>

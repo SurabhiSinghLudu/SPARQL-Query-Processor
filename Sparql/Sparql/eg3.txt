@@ -1,0 +1,1233 @@
+<rdf:RDF>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1831_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1877_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1826_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1873_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1822_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1868_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1767_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1860_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1763_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1864_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1978_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1899_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1974_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2015_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1891_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1961_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1983_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1909_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1970_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1905_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2003_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1895_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2007_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1901_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1908_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1910_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1904_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1837_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1913_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1833_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1917_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1828_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1991_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1939_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1824_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1979_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1935_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1820_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1922_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1769_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1999_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1931_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1765_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1975_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1948_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1761_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1748_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1953_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1806_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1744_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1893_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1944_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1802_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1740_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2010_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1897_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1957_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1739_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1819_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1907_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1940_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1731_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1815_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1903_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1984_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1735_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1811_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1912_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1966_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1847_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1730_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1916_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1988_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1843_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1729_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1929_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1814_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1838_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1859_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1938_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2008_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1810_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1834_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1921_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1728_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1830_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1930_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1858_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1829_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1925_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1854_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1900_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1825_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1947_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1850_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1821_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1952_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1889_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1766_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1943_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1885_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1762_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1956_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1872_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1969_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1867_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1863_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1881_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Scottish_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1996_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1876_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Indian_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1894_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1737_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Pakistani_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1987_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1898_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1992_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1733_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1797_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1890_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1849_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1793_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1845_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1788_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1841_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1784_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1836_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1779_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1832_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1771_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1827_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1775_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1823_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1757_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1768_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1753_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1764_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1780_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1926_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1760_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1896_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1809_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1906_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1805_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1902_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1801_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1911_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1818_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1915_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1924_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1928_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2013_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1937_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_South_African_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2011_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1962_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Sri_Lankan_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1920_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Bangladeshi_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1971_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1796_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1919_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1799_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1980_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1792_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1942_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1795_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1963_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1997_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1787_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1959_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1791_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1990_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1972_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1993_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1783_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1955_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1782_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1994_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2000_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1778_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1951_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1786_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1998_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2004_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1774_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1946_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1777_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2005_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_sport"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1968_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1756_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1977_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1773_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1932_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1982_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1752_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1807_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1808_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1759_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1770_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1964_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1803_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1804_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1755_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1747_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1986_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1816_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1751_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1800_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1743_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1973_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1812_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1817_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1746_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1738_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1960_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1726_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1742_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1813_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2012_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1734_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1995_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1856_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1727_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Australian_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1846_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2002_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1852_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1857_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Zimbabwean_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1842_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2006_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1887_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1853_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1798_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1933_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1883_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<skos:prefLabel xml:lang="en">Years in cricket</skos:prefLabel>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1888_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1794_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1878_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1884_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1789_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1874_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1880_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1781_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1918_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<rdfs:label xml:lang="en">Years in cricket</rdfs:label>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1869_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1879_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1785_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1914_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1865_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1875_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1776_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1923_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1861_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1871_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1927_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1772_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1870_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1866_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1965_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1936_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1758_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1892_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1862_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1754_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1949_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1750_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1790_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1954_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1749_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1945_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Years_in_cricket">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1745_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_English_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1958_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1741_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2001_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1941_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Welsh_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1736_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1950_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_Kenyan_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+ 
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1732_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1985_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_West_Indian_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1848_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1976_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Seasons_in_New_Zealand_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1844_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1967_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2009_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1855_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1840_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1989_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1851_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1839_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1981_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1934_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1886_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1835_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1882_in_cricket">
+<skos:broader rdf:resource="http://dbpedia.org/resource/Category:Years_in_cricket"/>
+</rdf:Description>
+</rdf:RDF

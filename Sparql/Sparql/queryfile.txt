@@ -1,0 +1,1 @@
+select ?fn from eg.rdf where { ?x vcard:Given ?fn  .  ?x vcard:FN "Abhishek Singh" . }
